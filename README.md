@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-🎓 **Information Technology Student** at *Pune Institute of Computer Technology (PICT)* — CGPA: **9.96/10**  
-💼 Currently working as a **MERN Stack Developer Intern** at *Kartavya Technologies*  
-🧠 Passionate about **AI-powered web systems**, **real-time platforms**, and **scalable cloud applications**  
-⚙️ I love transforming ideas into impactful digital products  
+🎓 **B.E. Information Technology** student at *Pune Institute of Computer Technology (PICT)* — CGPA: **9.944/10**  
+💼 Currently working as a **Software Development Engineer (SDE) Intern** at *Enthralltech Pvt. Ltd. (Enthral.ai)*  
+🧠 Passionate about **scalable web systems**, **automation**, and **data-driven applications**  
 🌍 Based in Pune, India  
+📞 Contact: **+91 9172488920**  
 📬 Reach me at: **[prasadkumbarkar100@gmail.com](mailto:prasadkumbarkar100@gmail.com)**  
 
 ---
@@ -23,19 +23,31 @@
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,react,mongodb,mysql,tailwind,git,github,postman,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,html,dotnet,angular,nodejs,express,react,mongodb,mysql,tailwind,git,github,postman,figma,vscode&theme=light" />
 </p>
+
+**Frameworks/Libraries:** ASP.NET Core, .NET, Angular, Node.js, Express.js, React.js, Tailwind CSS  
+**Databases:** SQL Server, MySQL, MongoDB  
+**Core Concepts:** Data Structures & Algorithms, Object Oriented Programming, SDLC, DBMS  
+**Tools:** Git, GitHub Actions, Visual Studio, VS Code, Postman, Figma  
 
 ---
 
 ### 💼 Experience
 
+#### 🏢 Enthralltech Pvt. Ltd. (Enthral.ai) | Software Development Engineer (SDE) Intern
+*Jan 2026 – Present*  
+- Developed an **Automated Certificate Mapping System** using ASP.NET Core, C#, and SQL Server to dynamically generate and assign course certificates.  
+- Built responsive front-end interfaces with **Angular** and **Fabric.js** for canvas-based certificate template rendering and visual layout management.  
+- Built data reports such as **Ageing Bucket** and **Category-wise Course Completion** reports using SQL Server for learner progress tracking.  
+- Debugged production-level issues, refactored legacy code for maintainability, and improved system reliability and documentation.  
+
 #### 🏢 Kartavya Technologies | MERN Stack Developer Intern
-*Sept 2025 – Present*  
-- Building **QuickFix**, a MERN-based platform enabling users to find and hire nearby skilled workers such as plumbers, electricians, and carpenters.  
-- Implemented **dynamic job posting** with detailed descriptions, pricing offers, and image uploads (up to 5 per request).  
-- Developed a **real-time request and negotiation system** allowing workers to accept or counter job offers.  
-- Integrated **location-based matching** to connect users with nearby workers and a feedback system for reliability and trust.
+*Oct 2025 – Dec 2025*  
+- Built **HouseTap**, a MERN-based platform enabling users to find and hire nearby skilled workers.  
+- Implemented dynamic job posting with detailed descriptions, pricing offers, and image uploads.  
+- Developed a real-time request and negotiation system allowing workers to accept or counter job offers.  
+- Integrated location-based matching and a feedback system to improve trust and reliability.
 
 ---
 
@@ -43,36 +55,37 @@
 
 #### 🗂️ [Paste Room](https://www.pasteroom.live)
 > **Tech Stack:** Node.js, Express.js, React.js, Google Cloud Platform, Azure, Razorpay  
-- Engineered *Paste Room*, a secure and anonymous file-sharing platform, enabling seamless document exchange through **virtual rooms**.  
+- Engineered *Paste Room*, a secure file-sharing platform enabling seamless document exchange through **virtual rooms**.  
 - Built a robust backend with **Node.js** and **Express.js**, ensuring scalable and secure data handling.  
 - Implemented **end-to-end encryption** using *Bcrypt* and *Crypto* to safeguard file storage and transfer.  
-- Integrated **Razorpay payment gateway** for premium users, ensuring reliable transactional security.  
-- Achieved rapid adoption with **350+ users in first 7 days**; currently **600+ monthly active users**.
+- Achieved rapid adoption with **350+ users in first 7 days**; currently **700+ monthly active users**.
 
 ---
 
 #### 📊 [Campus Results](https://www.campusresults.live)
 > **Tech Stack:** Node.js, Express.js, React.js, Tailwind CSS, ApexCharts  
-- Developed *Campus Results*, a system to **automate student performance analysis** by processing Excel files containing seat numbers and mother’s names.  
-- Integrated API to fetch result data directly from the **SPPU website**, streamlining score retrieval.  
-- Successfully **analyzed academic data** for **1000+ students** without failure.  
-- Achieved **35K+ clicks** within 2 hours of launch, demonstrating strong scalability and demand.
-
----
-
-#### 🌊 [Wave Watch](https://drive.google.com/file/d/10VTX-PPytouYXpJI0g9nJLqmAI8Xpu_v/view?usp=drive_link)
-> **Tech Stack:** Python, Node.js, Express.js, React.js, Supabase, Whisper, BLIP  
-- Built an end-to-end **citizen reporting system for ocean hazards**, allowing geotagged submission of images, videos, audio, hazard type, severity, and textual descriptions.  
-- Implemented an AI/ML pipeline leveraging **BLIP** (image/video captioning), **Whisper** (multilingual audio transcription), and **LLMs** for verifying reported ocean hazards.  
-- Designed a **real-time official dashboard** with interactive maps, dynamic hotspots, and integrated social media feeds (Reddit, YouTube) processed via **AI/ML** to detect hazard-related trends.
+- Developed *Campus Results*, a full-stack web application to automate student performance analysis by processing Excel files containing seat numbers and mother’s names.  
+- Integrated external APIs to fetch and parse result data from the **SPPU website**, streamlining score retrieval.  
+- Processed and analyzed academic data for **1000+ students** with high accuracy, ensuring reliable result generation and visualization.
 
 ---
 
 ### 🏆 Achievements
 
 🏅 **1st Prize — Tata Motors Hackathon**, *COEP MindSpark 2025*  
-🥇 **Topper — Information Technology Department (PICT)**  
-🧠 **AR/VR Bootcamp Participant — CDAC Pune**
+🥉 **2nd Runner-Up — Josh Softwares Hackathon**, *INC 2026*  
+🥇 **Department Topper — Information Technology**, *PICT*
+
+---
+
+### 🎓 Education
+
+- **Pune Institute of Computer Technology** — B.E. in Information Technology *(2023 – 2027)*  
+  **CGPA:** 9.944/10  
+- **Lonar Central Public School & Jr. College** — Higher Secondary Education (HSC) *(2023)*  
+  **Percentage:** 79.83%  
+- **Lonar Central Public School & Jr. College** — Senior Secondary Education (SSC) *(2021)*  
+  **Percentage:** 96.60%
 
 ---
 
