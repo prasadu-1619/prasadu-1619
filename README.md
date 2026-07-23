@@ -11,74 +11,79 @@
 
 ### 👨‍💻 About Me
 
-🎓 **Information Technology Student** at *Pune Institute of Computer Technology (PICT)* — CGPA: **9.96/10**  
-💼 Currently working as a **MERN Stack Developer Intern** at *Kartavya Technologies*  
-🧠 Passionate about **AI-powered web systems**, **real-time platforms**, and **scalable cloud applications**  
-⚙️ I love transforming ideas into impactful digital products  
-🌍 Based in Pune, India  
-📬 Reach me at: **[prasadkumbarkar100@gmail.com](mailto:prasadkumbarkar100@gmail.com)**  
+🎓 **Information Technology Student** at *Pune Institute of Computer Technology (PICT)* — CGPA: **9.944/10**
+💼 Software Development Engineer (SDE) Intern experience at *Enthralltech Pvt. Ltd. (Enthral.ai)*
+🧠 Passionate about **AI-powered web systems**, **real-time platforms**, and **scalable cloud applications**
+⚙️ I love transforming ideas into impactful digital products
+🌍 Based in Pune, India
+📬 Reach me at: **[prasadkumbarkar100@gmail.com](mailto:prasadkumbarkar100@gmail.com)**
 
 ---
 
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,react,mongodb,mysql,tailwind,git,github,postman,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,nodejs,express,angular,react,mongodb,mysql,tailwind,git,github,postman,figma,vscode&theme=light" />
 </p>
+
+**Programming Languages:** C++, Python, JavaScript, TypeScript, HTML
+**Frameworks/Libraries:** Node.js, Express.js, Angular, Tailwind CSS
+**Databases:** SQL Server, MySQL, MongoDB
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS
+**Tools:** Git, GitHub Actions, Visual Studio, VS Code, Postman, Figma
 
 ---
 
 ### 💼 Experience
 
+#### 🏢 Enthralltech Pvt. Ltd. (Enthral.ai) | Software Development Engineer (SDE) Intern
+*Jan 2026 – Jun 2026*
+- Developed an **Automated Certificate Mapping System** using ASP.NET Core, C#, and SQL Server to dynamically generate and assign certificates, mapping course data with templates for dynamic field rendering.
+- Worked on the **Assessment Module** for an Applicant Tracking System (ATS), enabling question management and assessment creation.
+- Built data reports such as **Ageing Bucket Report** and **Course Exception Report** using SQL Server to help stakeholders track learner progress and identify bottlenecks.
+- Debugged and resolved production-level issues, and refactored legacy code to improve maintainability.
+
 #### 🏢 Kartavya Technologies | MERN Stack Developer Intern
-*Sept 2025 – Present*  
-- Building **QuickFix**, a MERN-based platform enabling users to find and hire nearby skilled workers such as plumbers, electricians, and carpenters.  
-- Implemented **dynamic job posting** with detailed descriptions, pricing offers, and image uploads (up to 5 per request).  
-- Developed a **real-time request and negotiation system** allowing workers to accept or counter job offers.  
-- Integrated **location-based matching** to connect users with nearby workers and a feedback system for reliability and trust.
+*Oct 2025 – Dec 2025*
+- Contributed to **HouseTap**, a MERN-based platform enabling users to find and hire nearby skilled workers such as plumbers, electricians, and carpenters.
+- Implemented job posting features with detailed descriptions, pricing information, and image uploads.
+- Implemented features for users to post service requests and workers to browse and accept nearby jobs.
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🗂️ [Paste Room](https://www.pasteroom.live)
-> **Tech Stack:** Node.js, Express.js, React.js, Google Cloud Platform, Azure, Razorpay  
-- Engineered *Paste Room*, a secure and anonymous file-sharing platform, enabling seamless document exchange through **virtual rooms**.  
-- Built a robust backend with **Node.js** and **Express.js**, ensuring scalable and secure data handling.  
-- Implemented **end-to-end encryption** using *Bcrypt* and *Crypto* to safeguard file storage and transfer.  
-- Integrated **Razorpay payment gateway** for premium users, ensuring reliable transactional security.  
-- Achieved rapid adoption with **350+ users in first 7 days**; currently **600+ monthly active users**.
-
----
+> **Tech Stack:** Node.js, Express.js, React.js, Azure
+- Engineered *Paste Room*, a secure file-sharing platform enabling seamless document exchange through **virtual rooms**.
+- Built a robust backend with **Node.js** and **Express.js**, ensuring scalable and secure data handling.
+- Implemented **end-to-end encryption** using *Bcrypt* and *Crypto* to safeguard file storage and transfer.
+- Achieved rapid adoption with **350+ users in first 7 days**; currently **300+ monthly active users**.
 
 #### 📊 [Campus Results](https://www.campusresults.live)
-> **Tech Stack:** Node.js, Express.js, React.js, Tailwind CSS, ApexCharts  
-- Developed *Campus Results*, a system to **automate student performance analysis** by processing Excel files containing seat numbers and mother’s names.  
-- Integrated API to fetch result data directly from the **SPPU website**, streamlining score retrieval.  
-- Successfully **analyzed academic data** for **1000+ students** without failure.  
-- Achieved **35K+ clicks** within 2 hours of launch, demonstrating strong scalability and demand.
-
----
+> **Tech Stack:** Node.js, Express.js, React.js, Tailwind CSS, ApexCharts
+- Developed *Campus Results*, a full-stack app to **automate student performance analysis** by processing Excel files containing seat numbers and mother's names.
+- Integrated external APIs to fetch and parse result data from the **SPPU website**, streamlining score retrieval.
+- Processed and analyzed academic data for **1000+ students** with high accuracy.
 
 #### 🌊 [Wave Watch](https://drive.google.com/file/d/10VTX-PPytouYXpJI0g9nJLqmAI8Xpu_v/view?usp=drive_link)
-> **Tech Stack:** Python, Node.js, Express.js, React.js, Supabase, Whisper, BLIP  
-- Built an end-to-end **citizen reporting system for ocean hazards**, allowing geotagged submission of images, videos, audio, hazard type, severity, and textual descriptions.  
-- Implemented an AI/ML pipeline leveraging **BLIP** (image/video captioning), **Whisper** (multilingual audio transcription), and **LLMs** for verifying reported ocean hazards.  
-- Designed a **real-time official dashboard** with interactive maps, dynamic hotspots, and integrated social media feeds (Reddit, YouTube) processed via **AI/ML** to detect hazard-related trends.
+> **Tech Stack:** Python, Node.js, Express.js, React.js, Supabase, Whisper, BLIP
+- Built an end-to-end **citizen reporting system for ocean hazards**, allowing geotagged submission of images, videos, audio, hazard type, severity, and textual descriptions.
+- Implemented an AI/ML pipeline leveraging **BLIP** (image/video captioning), **Whisper** (multilingual audio transcription), and **LLMs** for verifying reported ocean hazards.
+- Designed a **real-time official dashboard** with interactive maps, dynamic hotspots, and integrated social media feeds (Reddit, YouTube) processed via AI/ML to detect hazard-related trends.
 
 ---
 
 ### 🏆 Achievements
 
-🏅 **1st Prize — Tata Motors Hackathon**, *COEP MindSpark 2025*  
-🥇 **Topper — Information Technology Department (PICT)**  
-🧠 **AR/VR Bootcamp Participant — CDAC Pune**
+🏅 **1st Prize — Tata Motors Hackathon**, *COEP MindSpark 2025*
+🥈 **2nd Runner-Up — Josh Softwares Hackathon**, *INC 2026*
+🥇 **Department Topper — Information Technology (PICT)**
 
 ---
 
-
 ### 💡 Developer Philosophy
-> *"Code should not just work — it should inspire.  
+> *"Code should not just work — it should inspire.
 > Every project is an experiment, every failure a dataset, and every success a deployment."* 💭
 
 ---
